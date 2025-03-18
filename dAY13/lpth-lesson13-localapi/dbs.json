@@ -1,0 +1,25 @@
+{
+    "users":[
+        {
+            "fullName":"Le Phan Trung Hieu",
+            "age":23,
+            "class":"K23CNT1"
+        },
+        {
+            "fullName":"Nguyễn Quang Anh",
+            "age":22,
+            "class":"K23CNT2"
+        },
+        {
+            "fullName":"Nguyễn Tuan Hung",
+            "age":33,
+            "class":"K23CNT3"
+        }
+    ],
+    "students":[
+        {
+            "studentId":"Kayff",
+            "studentName":"Nguyễn Văn D"
+        }
+    ]
+}
