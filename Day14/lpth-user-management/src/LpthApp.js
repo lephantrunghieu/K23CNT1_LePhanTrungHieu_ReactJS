@@ -7,6 +7,7 @@ import LpthHome from './components/LpthHome';
 import LpthListUsers from './components/LpthListUsers';
 import LpthCreateUser from './components/LpthCreateUser';
 import LpthEditUser from './components/LpthEditUser';
+
 import './App.css';
 
 function LpthApp() {
